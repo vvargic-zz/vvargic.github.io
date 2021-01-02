@@ -1,0 +1,52 @@
+header {
+	background-color: #fc7307;
+	color: white;
+	padding: 20px 0;
+	text-align: center;
+}
+
+.title-intro {
+	font-size: 14px;
+	color: white;
+}
+
+body {
+	margin: 0;
+}
+
+.main-intro {
+	background-color: #d4e4f7;
+	color: #341c09;
+	margin: 0 auto;
+	padding: 10px;
+	text-align: center;
+}
+
+.my-skills {
+	background-color: #d4e4f7; /*#b85b14;*/
+	color: black;
+	margin: 0 auto;
+	padding: 10px 0;
+	text-align: center;
+}
+
+.columns {
+	display: flex;
+}
+
+.skill {
+	margin: 0 10px;
+}
+
+footer {
+	background-color: #341c09;
+	color: #d4e4f7;
+	font-size: 14px;
+	padding: 5px 5px;
+	text-align: center;
+}
+
+.foot-link {
+	color: #236ab9;
+	text-decoration: none;
+}
